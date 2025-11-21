@@ -51,3 +51,60 @@ The Occupational Sleep Disorder & Health Risk Dashboard provides an easy-to-unde
 - Long-term productivity loss and absenteeism
 ### What is the main problem this dashboard solves for employees?
 - It helps employees understand their sleep behavior, identify early symptoms of disorders, and get personalised recommendations to improve their health, well-being, and productivity.
+
+## Key Summary Metrics and Key Insights
+- Average Age: 42.18
+- Total Respondents: 374
+- Average Sleep Duration: 7.1 hours
+- Average Sleep Quality: 7 (which is on a scale of 1–10)
+- Average Stress Level: 5
+- Average Physical Activity Score: 59
+- Average Heart Rate: 70 bpm
+- Average Daily Steps: 6,817
+ 
+ ## Sleep Disorders by Occupation
+### Top affected professions:
+Nurses (73) and Doctors (71) are most affected which suggests high healthcare-related stress/workload.
+Engineers (63) and Lawyers (47) also show high incidence possibly due to cognitive load and long work hours.
+## Sleep Disorder Types
+- None: 219
+- Sleep Apnea: 78
+- Insomnia: 77
+This shows that nearly 40% suffer from sleep disorders, indicating a major wellness concern.
+## Blood Pressure Distribution
+- Stage 1 Hypertension: 140
+- Stage 2 Hypertension: 71
+- Elevated BP: 77
+- Normal Pressure: 45
+- Low Pressure: 41
+showing over 75% of individuals having elevated to severe hypertension, signaling widespread cardiovascular risk.
+## BMI Status
+- Normal: 216
+- Overweight: 148
+- Obese: 10 (Majority are within a healthy range, but 42% are overweight or obese highlighting the risk factor for sleep apnea and hypertension.
+## Gender Distribution
+- There is a stable balanced: 189 females, 185 males showing no immediate gender-based bias in data.
+## Physical Activity Levels
+- Low Activity: 223
+- High Activity: 151
+  This shows that over 60% reports low physical activity, which may contribute to sleep, BMI, and BP issues.
+
+## Recommendations
+#### Sleep Hygiene Programs
+- Workshops on insomnia & sleep apnea management
+- Reduce long shifts for high-risk occupations
+#### Physical Activity Initiatives
+- Introduce step challenges
+- Mandatory stretch breaks
+#### Hypertension Management
+- Regular BP screening
+- Diet counseling
+- Stress reduction therapy
+#### Workload Restructuring for Healthcare Workers
+- Rotational shifts
+- Mandatory rest periods
+- Mental health support services
+#### Weight Management Programs
+- Nutrition education
+- Healthy cafeteria options
+- Coaching for overweight groups 
