@@ -10,7 +10,6 @@ Sleep disorders and poor sleep quality contribute to reduced productivity, workp
 - What gap currently exists that the dashboard addresses?
 - What specific challenges do organisations face when dealing with sleep-related risks?
 - What health problems is the project trying to reduce or prevent?
-- How does the dashboard improve decision-making for employers or health teams?
 - What is the main problem this dashboard solves for employees?
   
 ## Methodology:
@@ -33,4 +32,22 @@ To evaluate Occupational Sleep Disorder & Health Risk project, the dataset was d
 The Occupational Sleep Disorder & Health Risk Dashboard provides an easy-to-understand view of how employees are sleeping and how their sleep patterns may affect their health and work performance. It highlights sleep quality, potential health risks, and trends over time, helping organizations quickly identify workers who may need support to stay healthy, alert, and productive.
 ![]<<img width="5657" height="3706" alt="sleep dataset" src="https://github.com/user-attachments/assets/e092cea7-f3d2-4c4c-be03-0918dd722caa" />
 
-  
+ ## Analysis:
+ ### What problem is the Occupational Sleep Disorder & Health Risk Dashboard trying to solve?
+- The dashboard aims to solve the challenge of detecting and monitoring sleep-related risks among employees, which often go unnoticed. Many workers experience sleep deprivation, insomnia, or irregular sleep patterns, which directly affects productivity, safety, and long-term health though organizations lack a centralized tool to identify these risks early.
+ ### Why is sleep disorder a problem in workplaces?
+- Sleep disorders lead to reduced concentration, slower reaction times, poor decision-making, higher stress, and increased accident risks. For industries like transportation, healthcare, manufacturing, and safety-sensitive professions, these risks could result in injuries, costly errors, or fatal accidents.
+ ### What gap currently exists that the dashboard addresses?
+- Many workplaces collect health data but lack an integrated system that analyzes sleep behavior, correlates it to health risks, and provides actionable insights. The dashboard fills this gap by combining sleep metrics, fatigue scores, and health indicators in one accessible platform.
+### What specific challenges do organisations face when dealing with sleep-related risks?
+- Lack of awareness among staff and managers
+- No real-time data to monitor fatigue or sleep quality
+- Limited tools to predict health risks linked to poor sleep
+- Difficulty identifying high-risk employees before incidents occur
+### What health problems is the project trying to reduce or prevent?
+- Workplace accidents due to fatigue
+- Chronic diseases like hypertension and obesity
+- Burnout and mental health decline
+- Long-term productivity loss and absenteeism
+### What is the main problem this dashboard solves for employees?
+- It helps employees understand their sleep behavior, identify early symptoms of disorders, and get personalised recommendations to improve their health, well-being, and productivity.
